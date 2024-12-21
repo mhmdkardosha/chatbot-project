@@ -1,0 +1,15 @@
+# Streamlit for UI
+streamlit
+
+# Data handling
+pandas
+numpy
+
+# Environment variables
+python-dotenv
+
+# Langchain and related packages
+langchain
+langchain_experimental
+langchain-google-genai
+faiss-cpu
