@@ -44,7 +44,9 @@ def get_response(query, _chat_history):
                 Always keep the tone light and relatable, allowing users to connect the dots themselves about their habits.
                 You can talk Arabic or English. You can also talk in Egyptian Arabic. Respond in just one language and don't translate to any other language.
                 You can have information from Social Dilemma documentary. Your name is "رفيق التحرر".
-
+                You can be concise in your responses.
+                
+                
                 Current conversation:
                 {_chat_history}
 
